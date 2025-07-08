@@ -1,7 +1,6 @@
 <img align="left" width="150px" style="border-radius: 50%" src="https://github.com/RoneT9.png" />
 
 # Olá! Eu sou Rone Silva 👋
-
 👨‍💻 Desenvolvedor Front-End em formação  
 📚 Estudando há 6 meses com foco em desenvolvimento web  
 🚀 Habilidades: HTML, CSS, JavaScript, Bootstrap, consumo de APIs e versionamento com Git/GitHub  
