@@ -57,10 +57,10 @@
 ---
 
 ## 💻 Em constante evolução...
-<p align="center" style="background-color: white; padding: 20px; border-radius: 5px;">
-  <img src="https://loading.io/spinners/double-ring/lg.double-ring-spinner.gif" width="100" alt="Loading spinner" />
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100" alt="Loading" style="border-radius: 5px; background-color: white;" />
   <br />
-  <strong>⚡ Sempre em evolução... conhecimento sendo recarregado!</strong>
+  <strong>⚡ Carregando conhecimento...</strong>
 </p>
 
 
