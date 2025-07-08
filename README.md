@@ -59,9 +59,8 @@
 ## 💻 Em constante evolução...
 
 <p align="center">
-  <img src="https://media.giphy.com/media/UqZ2pEd9E72dq/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/xTk9ZvMnbIiIew7IpW/giphy.gif" width="200" />
   <br />
-  <strong>🚀 Sempre em evolução... conhecimento em carregamento!</strong>
+  <strong>⚡ Sempre em evolução... conhecimento sendo recarregado!</strong>
 </p>
-
 
