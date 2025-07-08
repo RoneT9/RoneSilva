@@ -1,14 +1,16 @@
-<div align="center">
-  <img src="https://github.com/RoneT9.png" width="150px" style="border-radius: 50%; margin-bottom: 20px;" />
-</div>
+<h1 align="center">Olá! Eu sou Rone Silva 👋</h1>
 
-# Olá! Eu sou Rone Silva 👋
+<p align="center">
+  <img src="https://github.com/RoneT9.png" width="180px" style="border-radius: 50%;" />
+</p>
 
-👨‍💻 Desenvolvedor Front-End em formação  
-📚 Estudando há 6 meses com foco em desenvolvimento web  
-🚀 Habilidades: HTML, CSS, JavaScript, Bootstrap, consumo de APIs e versionamento com Git/GitHub  
-⚛️ Aprendendo React e evoluindo a cada dia!  
-🔧 Criando projetos práticos para aprimorar meus conhecimentos  
+<p align="center">
+  👨‍💻 Desenvolvedor Front-End em formação<br>
+  📚 Estudando há 6 meses com foco em desenvolvimento web<br>
+  🚀 Habilidades: HTML, CSS, JavaScript, Bootstrap, consumo de APIs e versionamento com Git/GitHub<br>
+  ⚛️ Aprendendo React e evoluindo a cada dia!<br>
+  🔧 Criando projetos práticos para aprimorar meus conhecimentos
+</p>
 
 ---
 
