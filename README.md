@@ -59,5 +59,5 @@
 ## 💻 Em constante evolução...
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohs7KViFv8YjGJfUc/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/UqZ2pEd9E72dq/giphy.gif" width="300" />
 </p>
