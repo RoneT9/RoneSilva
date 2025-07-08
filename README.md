@@ -1,23 +1,37 @@
-<h1 align="center">Olá! Eu sou Rone Silva 👋</h1>
+<table>
+  <tr>
+    <td width="200px" align="center">
+      <img src="https://github.com/RoneT9.png" width="180px" style="border-radius: 50%;" />
+      <br />
+      <strong>Rone Silva</strong>
+      <p>Desenvolvedor Front-End</p>
+      <p>📍 Brasil</p>
+    </td>
+    <td>
+      <h2>Oiee! Sou o Rone Silva, desenvolvedor front-end 👋</h2>
+      <p>👨‍💻 Desenvolvedor Front-End em formação</p>
+      <p>📚 Estudando há 6 meses com foco em desenvolvimento web</p>
+      <p>🚀 Habilidades: HTML, CSS, JavaScript, Bootstrap, APIs e Git/GitHub</p>
+      <p>⚛️ Aprendendo React e evoluindo a cada dia!</p>
+      <p>🔧 Criando projetos práticos para aprimorar meus conhecimentos</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github.com/RoneT9.png" width="180px" style="border-radius: 50%;" />
-</p>
-
-<p align="center">
-  👨‍💻 Desenvolvedor Front-End em formação<br>
-  📚 Estudando há 6 meses com foco em desenvolvimento web<br>
-  🚀 Habilidades: HTML, CSS, JavaScript, Bootstrap, consumo de APIs e versionamento com Git/GitHub<br>
-  ⚛️ Aprendendo React e evoluindo a cada dia!<br>
-  🔧 Criando projetos práticos para aprimorar meus conhecimentos
+  <img src="https://github-readme-stats.vercel.app/api?username=RoneT9&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoneT9&layout=compact&theme=radical" width="330"/>
 </p>
 
 ---
 
-## 🛠️ Tecnologias que utilizo:
+## 🚀 Tecnologias
 
-<div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
-
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
@@ -25,26 +39,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-
-</div>
-
----
-
-## 📈 Estatísticas do GitHub:
-
-![RoneT9's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoneT9&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoneT9&layout=compact&theme=radical)
+</p>
 
 ---
 
-## 🌐 Contatos:
+## 🌐 Contatos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/rone-silva-b67584316/)
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ronesilva50ads@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rone-silva-b67584316/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ronesilva50ads@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 💻 Em constante evolução...
 
-![Dev animado](https://media.giphy.com/media/3ohs7KViFv8YjGJfUc/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohs7KViFv8YjGJfUc/giphy.gif" width="300" />
+</p>
